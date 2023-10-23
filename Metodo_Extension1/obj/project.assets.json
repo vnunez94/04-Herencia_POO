@@ -17,8 +17,8 @@
   "libraries": {
     "03 clases_abstractas/1.0.0": {
       "type": "project",
-      "path": "../Herencia_class_abstractas/03 clases_abstractas.csproj",
-      "msbuildProject": "../Herencia_class_abstractas/03 clases_abstractas.csproj"
+      "path": "../ClasesAbstractas/03 clases_abstractas.csproj",
+      "msbuildProject": "../ClasesAbstractas/03 clases_abstractas.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -59,8 +59,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Nuevo\\04-Herencia_POO\\Herencia_class_abstractas\\03 clases_abstractas.csproj": {
-              "projectPath": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Nuevo\\04-Herencia_POO\\Herencia_class_abstractas\\03 clases_abstractas.csproj"
+            "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Nuevo\\04-Herencia_POO\\ClasesAbstractas\\03 clases_abstractas.csproj": {
+              "projectPath": "C:\\Users\\victo\\OneDrive\\Escritorio\\Dev\\INF512\\Nuevo\\04-Herencia_POO\\ClasesAbstractas\\03 clases_abstractas.csproj"
             }
           }
         }

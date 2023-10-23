@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Herencia_class_abstractas\03 clases_abstractas.csproj" />
+    <ProjectReference Include="..\ClasesAbstractas\03 clases_abstractas.csproj" />
   </ItemGroup>
 
 </Project>

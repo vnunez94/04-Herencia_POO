@@ -1,5 +1,4 @@
-﻿
-using clase_abstracta;
+﻿using clase_abstracta;
 
 namespace Metodo_Extension1
 {
