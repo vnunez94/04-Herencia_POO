@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\bin\Debug\net7.0\02 Herencia02.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\bin\Debug\net7.0\02 Herencia02.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\bin\Debug\net7.0\02 Herencia02.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\bin\Debug\net7.0\02 Herencia02.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\bin\Debug\net7.0\02 Herencia02.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\obj\Debug\net7.0\02 Herencia02.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\obj\Debug\net7.0\02 Herencia02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\obj\Debug\net7.0\02 Herencia02.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\obj\Debug\net7.0\02 Herencia02.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\obj\Debug\net7.0\02 Herencia02.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\obj\Debug\net7.0\02 Herencia02.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\obj\Debug\net7.0\refint\02 Herencia02.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\obj\Debug\net7.0\02 Herencia02.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\obj\Debug\net7.0\02 Herencia02.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia02\obj\Debug\net7.0\ref\02 Herencia02.dll

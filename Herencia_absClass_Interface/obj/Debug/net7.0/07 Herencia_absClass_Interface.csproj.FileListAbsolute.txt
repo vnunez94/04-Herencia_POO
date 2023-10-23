@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\obj\Debug\net7.0\07 Herencia_absClass_Interface.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\obj\Debug\net7.0\07 Herencia_absClass_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\obj\Debug\net7.0\07 Herencia_absClass_Interface.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\obj\Debug\net7.0\07 Herencia_absClass_Interface.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\obj\Debug\net7.0\07 Herencia_absClass_Interface.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\bin\Debug\net7.0\07 Herencia_absClass_Interface.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\bin\Debug\net7.0\07 Herencia_absClass_Interface.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\bin\Debug\net7.0\07 Herencia_absClass_Interface.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\bin\Debug\net7.0\07 Herencia_absClass_Interface.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\bin\Debug\net7.0\07 Herencia_absClass_Interface.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\obj\Debug\net7.0\07 Herencia_absClass_Interface.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\obj\Debug\net7.0\refint\07 Herencia_absClass_Interface.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\obj\Debug\net7.0\07 Herencia_absClass_Interface.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\obj\Debug\net7.0\07 Herencia_absClass_Interface.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_absClass_Interface\obj\Debug\net7.0\ref\07 Herencia_absClass_Interface.dll

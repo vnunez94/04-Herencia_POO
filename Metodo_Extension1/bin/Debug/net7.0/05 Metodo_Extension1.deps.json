@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "05 Metodo_Extension1/1.0.0": {
+        "runtime": {
+          "05 Metodo_Extension1.dll": {}
+        }
+      },
+      "03 clases_abstractas/1.0.0": {
+        "runtime": {
+          "03 clases_abstractas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05 Metodo_Extension1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "03 clases_abstractas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

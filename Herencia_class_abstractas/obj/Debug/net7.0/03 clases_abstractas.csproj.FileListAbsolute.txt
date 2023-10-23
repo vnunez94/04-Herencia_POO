@@ -1,0 +1,15 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\bin\Debug\net7.0\03 clases_abstractas.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\bin\Debug\net7.0\03 clases_abstractas.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\bin\Debug\net7.0\03 clases_abstractas.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\bin\Debug\net7.0\03 clases_abstractas.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\bin\Debug\net7.0\03 clases_abstractas.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\obj\Debug\net7.0\03 clases_abstractas.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\obj\Debug\net7.0\03 clases_abstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\obj\Debug\net7.0\03 clases_abstractas.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\obj\Debug\net7.0\03 clases_abstractas.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\obj\Debug\net7.0\03 clases_abstractas.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\obj\Debug\net7.0\03 clases_abstractas.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\obj\Debug\net7.0\refint\03 clases_abstractas.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\obj\Debug\net7.0\03 clases_abstractas.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\obj\Debug\net7.0\03 clases_abstractas.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\Nuevo\04-Herencia_POO\Herencia_class_abstractas\obj\Debug\net7.0\ref\03 clases_abstractas.dll
